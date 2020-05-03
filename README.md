@@ -6,9 +6,19 @@
 * works everywhere
 
 # steps
+Build your own local Docker image...
+
 ```
 $ docker build -t aspnetcore-docker-build .
 $ docker run -it aspnetcore-docker-build
 $ ./build.sh
 ```
+
+...or use my Docker Hub image:
+
+```
+$ docker run maxhorstmann/aspnetcore-docker-build
+$ ./build.sh
+```
+
 
