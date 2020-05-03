@@ -1,5 +1,5 @@
 # aspnetcore-docker-build
-[Build ASP.NET Core from source](https://github.com/dotnet/aspnetcore/blob/master/docs/BuildFromSource.md) in a Docker container
+[Build ASP.NET Core from Source](https://github.com/dotnet/aspnetcore/blob/master/docs/BuildFromSource.md) in a Docker container
 
 # steps
 ```
